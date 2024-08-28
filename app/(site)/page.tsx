@@ -21,7 +21,7 @@ export default function Home() {
       <Feature />
       {/* <FunFact /> */}
       {/* <FAQ /> */}
-      <Contact />
+      {/* <Contact /> */}
       {/* <Blog /> */}
     </main>
   );
