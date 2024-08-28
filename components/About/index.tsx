@@ -95,7 +95,7 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    ParticiPate in Hackathon
+                    Participate in Hackathon
                   </h3>
                   <p>Attend guest lectures from industry experts</p>
                 </div>

@@ -1,14 +1,14 @@
 "use client";
 import React from "react";
-import featuresData from "./featuresData";
-import SingleFeature from "./SingleFeature";
+import featuresData from "./TeamData";
+import SingleFeature from "./SingleTeamcard";
 import SectionHeader from "../Common/SectionHeader";
 
 const Feature = () => {
   return (
     <>
       {/* <!-- ===== Features Start ===== --> */}
-      <section id="features" className="py-20 lg:py-25 xl:py-30">
+      <section id="team" className="py-20 lg:py-25 xl:py-30">
         <div className="mx-auto max-w-c-1315 px-4 md:px-8 xl:px-0">
           {/* <!-- Section Title Start --> */}
           <SectionHeader

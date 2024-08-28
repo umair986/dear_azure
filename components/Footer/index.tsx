@@ -90,7 +90,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/#aboutus"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         About Us
@@ -98,7 +98,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/#events"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Events
@@ -106,7 +106,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/#team"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Teams
@@ -136,7 +136,7 @@ const Footer = () => {
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
                     Newsletter
                   </h4>
-                  <p className="mb-4 w-[90%]">
+                  <p className="mb-4 w-[100%]">
                     Subscribe to receive future updates
                   </p>
 
@@ -207,11 +207,11 @@ const Footer = () => {
                     Privacy Policy
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#" className="hover:text-primary">
                     Support
                   </a>
-                </li>
+                </li> */}
               </ul>
             </motion.div>
 
