@@ -1,3 +1,7 @@
+This is Dear Azure Student Committe Website from MHSSCE Mumbai
+created by me as a Joint Technical Lead of this Committee
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
