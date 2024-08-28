@@ -8,8 +8,8 @@ import Contact from "@/components/Contact";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
-  description: "This is Home for Solid Pro",
+  title: "Dear Azure",
+  description: "This is Dear Azure Website",
   // other metadata
 };
 

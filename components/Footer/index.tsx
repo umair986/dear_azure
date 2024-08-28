@@ -93,7 +93,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Product
+                        About Us
                       </a>
                     </li>
                     <li>
@@ -101,7 +101,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Careers
+                        Events
                       </a>
                     </li>
                     <li>
@@ -109,7 +109,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Pricing
+                        Teams
                       </a>
                     </li>
                   </ul>
