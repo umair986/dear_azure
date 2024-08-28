@@ -4,7 +4,7 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/team_profile/832.jpg",
-    title: "MOHAMMAD JAGDA",
+    title: "MOHAMMED JAGDA",
     description: "President",
   },
   {
