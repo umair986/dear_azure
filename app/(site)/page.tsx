@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Hero from "@/components/Hero";
 import Feature from "@/components/Team";
 import About from "@/components/About";
+import Events from "@/components/Events";
 import FunFact from "@/components/FunFact";
 import FAQ from "@/components/FAQ";
 import Contact from "@/components/Contact";
@@ -18,6 +19,7 @@ export default function Home() {
     <main>
       <Hero />
       <About />
+      <Events />
       <Feature />
       {/* <FunFact /> */}
       {/* <FAQ /> */}
