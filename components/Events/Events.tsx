@@ -3,7 +3,7 @@ import { Feature } from "@/types/feature";
 import Image from "next/image";
 import { motion } from "framer-motion";
 
-const SingleFeature = ({ feature }: { feature: Feature }) => {
+const EventDataFunc = ({ feature }: { feature: Feature }) => {
   const { icon, title, description } = feature;
 
   return (
@@ -44,4 +44,4 @@ const SingleFeature = ({ feature }: { feature: Feature }) => {
   );
 };
 
-export default SingleFeature;
+export default EventDataFunc;

@@ -9,9 +9,9 @@ const featuresData: Feature[] = [
   // },
   {
     id: 2,
-    icon: "/images/team_profile/832.jpg",
-    title: "KAIF TOKARE",
-    description: "who tf is this guy",
+    icon: "/images/features/Aicodex.jpg",
+    title: "AI CodeX",
+    description: "",
   },
   // {
   //   id: 3,
